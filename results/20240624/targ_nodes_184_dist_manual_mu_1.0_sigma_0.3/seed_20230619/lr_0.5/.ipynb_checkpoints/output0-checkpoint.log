@@ -1,0 +1,13 @@
+Condition:  0
+constant = True | distribution = manual
+Starting Simulation...
+Duration 18.72 s
+constant = False | distribution = linear
+linear
+Forward complete
+Duration: 22.71
+Backward complete
+Duration: 39.92
+Epoch: 0 | Trial: 0 | Duration: 63.58
+ADDING FIGURE! Epoch 0
+Finished Training, 1 epochs

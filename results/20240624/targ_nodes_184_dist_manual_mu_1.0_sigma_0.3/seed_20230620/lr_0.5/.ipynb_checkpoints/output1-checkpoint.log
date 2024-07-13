@@ -1,0 +1,38 @@
+Condition:  0
+constant = True | distribution = manual
+Starting Simulation...
+Duration 14.52 s
+constant = False | distribution = linear
+linear
+Forward complete
+Duration: 18.36
+Backward complete
+Duration: 39.36
+Epoch: 0 | Trial: 0 | Duration: 57.74
+ADDING FIGURE! Epoch 0
+Forward complete
+Duration: 17.18
+Backward complete
+Duration: 39.49
+Epoch: 1 | Trial: 0 | Duration: 114.41
+Validation loss decreased (inf --> 17.105343).  Saving model ...
+Finished Training, 2 epochs
+Condition:  1
+constant = True | distribution = manual
+Starting Simulation...
+Duration 13.93 s
+constant = False | distribution = linear
+linear
+Forward complete
+Duration: 14.68
+Backward complete
+Duration: 37.86
+Epoch: 0 | Trial: 0 | Duration: 52.54
+ADDING FIGURE! Epoch 0
+Forward complete
+Duration: 17.05
+Backward complete
+Duration: 37.48
+Epoch: 1 | Trial: 0 | Duration: 107.07
+Validation loss decreased (inf --> 13.890326).  Saving model ...
+Finished Training, 2 epochs

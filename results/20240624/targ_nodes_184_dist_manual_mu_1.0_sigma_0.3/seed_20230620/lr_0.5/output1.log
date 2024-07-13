@@ -1,0 +1,2277 @@
+Condition:  0
+constant = True | distribution = manual
+Starting Simulation...
+Duration 33.84 s
+constant = False | distribution = linear
+linear
+Forward complete
+Duration: 26.77
+Backward complete
+Duration: 38.90
+Epoch: 0 | Trial: 0 | Duration: 66.48
+ADDING FIGURE! Epoch 0
+Forward complete
+Duration: 16.84
+Backward complete
+Duration: 38.22
+Epoch: 1 | Trial: 0 | Duration: 121.55
+Validation loss decreased (inf --> 17.105343).  Saving model ...
+Forward complete
+Duration: 14.67
+Backward complete
+Duration: 37.24
+Epoch: 2 | Trial: 0 | Duration: 173.46
+Validation loss decreased (17.105343 --> 16.369194).  Saving model ...
+Forward complete
+Duration: 14.23
+Backward complete
+Duration: 37.69
+Epoch: 3 | Trial: 0 | Duration: 225.38
+Validation loss decreased (16.369194 --> 15.590472).  Saving model ...
+Forward complete
+Duration: 14.87
+Backward complete
+Duration: 37.46
+Epoch: 4 | Trial: 0 | Duration: 277.71
+Validation loss decreased (15.590472 --> 14.963639).  Saving model ...
+Forward complete
+Duration: 14.53
+Backward complete
+Duration: 37.78
+Epoch: 5 | Trial: 0 | Duration: 330.02
+ADDING FIGURE! Epoch 5
+Validation loss decreased (14.963639 --> 14.478763).  Saving model ...
+Forward complete
+Duration: 17.10
+Backward complete
+Duration: 38.84
+Epoch: 6 | Trial: 0 | Duration: 385.97
+Validation loss decreased (14.478763 --> 13.994322).  Saving model ...
+Forward complete
+Duration: 14.65
+Backward complete
+Duration: 37.65
+Epoch: 7 | Trial: 0 | Duration: 438.27
+Validation loss decreased (13.994322 --> 13.616806).  Saving model ...
+Forward complete
+Duration: 14.89
+Backward complete
+Duration: 38.61
+Epoch: 8 | Trial: 0 | Duration: 491.77
+Validation loss decreased (13.616806 --> 13.256113).  Saving model ...
+Forward complete
+Duration: 14.71
+Backward complete
+Duration: 37.81
+Epoch: 9 | Trial: 0 | Duration: 544.30
+Validation loss decreased (13.256113 --> 12.950054).  Saving model ...
+Forward complete
+Duration: 14.36
+Backward complete
+Duration: 37.32
+Epoch: 10 | Trial: 0 | Duration: 595.98
+ADDING FIGURE! Epoch 10
+Validation loss decreased (12.950054 --> 12.616528).  Saving model ...
+Forward complete
+Duration: 16.97
+Backward complete
+Duration: 38.22
+Epoch: 11 | Trial: 0 | Duration: 651.16
+Validation loss decreased (12.616528 --> 12.491150).  Saving model ...
+Forward complete
+Duration: 14.73
+Backward complete
+Duration: 38.61
+Epoch: 12 | Trial: 0 | Duration: 704.50
+Validation loss decreased (12.491150 --> 12.026023).  Saving model ...
+Forward complete
+Duration: 14.69
+Backward complete
+Duration: 37.80
+Epoch: 13 | Trial: 0 | Duration: 756.99
+Validation loss decreased (12.026023 --> 11.965217).  Saving model ...
+Forward complete
+Duration: 14.63
+Backward complete
+Duration: 38.01
+Epoch: 14 | Trial: 0 | Duration: 809.63
+Validation loss decreased (11.965217 --> 11.888184).  Saving model ...
+Forward complete
+Duration: 14.40
+Backward complete
+Duration: 37.74
+Epoch: 15 | Trial: 0 | Duration: 861.77
+ADDING FIGURE! Epoch 15
+Validation loss decreased (11.888184 --> 11.647975).  Saving model ...
+Forward complete
+Duration: 17.02
+Backward complete
+Duration: 37.67
+Epoch: 16 | Trial: 0 | Duration: 916.46
+Validation loss decreased (11.647975 --> 11.402964).  Saving model ...
+Forward complete
+Duration: 14.83
+Backward complete
+Duration: 38.41
+Epoch: 17 | Trial: 0 | Duration: 969.71
+Validation loss decreased (11.402964 --> 11.071596).  Saving model ...
+Forward complete
+Duration: 14.37
+Backward complete
+Duration: 38.46
+Epoch: 18 | Trial: 0 | Duration: 1022.54
+Validation loss decreased (11.071596 --> 10.777642).  Saving model ...
+Forward complete
+Duration: 14.44
+Backward complete
+Duration: 38.20
+Epoch: 19 | Trial: 0 | Duration: 1075.18
+Validation loss decreased (10.777642 --> 10.403802).  Saving model ...
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 39.19
+Epoch: 20 | Trial: 0 | Duration: 1129.10
+ADDING FIGURE! Epoch 20
+Validation loss decreased (10.403802 --> 10.122943).  Saving model ...
+Forward complete
+Duration: 16.96
+Backward complete
+Duration: 38.49
+Epoch: 21 | Trial: 0 | Duration: 1184.55
+Validation loss decreased (10.122943 --> 9.834398).  Saving model ...
+Forward complete
+Duration: 14.64
+Backward complete
+Duration: 38.65
+Epoch: 22 | Trial: 0 | Duration: 1237.85
+Validation loss decreased (9.834398 --> 9.566059).  Saving model ...
+Forward complete
+Duration: 14.80
+Backward complete
+Duration: 38.99
+Epoch: 23 | Trial: 0 | Duration: 1291.64
+Validation loss decreased (9.566059 --> 9.273030).  Saving model ...
+Forward complete
+Duration: 14.54
+Backward complete
+Duration: 38.73
+Epoch: 24 | Trial: 0 | Duration: 1344.90
+Validation loss decreased (9.273030 --> 9.019176).  Saving model ...
+Forward complete
+Duration: 14.63
+Backward complete
+Duration: 38.33
+Epoch: 25 | Trial: 0 | Duration: 1397.86
+ADDING FIGURE! Epoch 25
+Validation loss decreased (9.019176 --> 8.772906).  Saving model ...
+Forward complete
+Duration: 16.93
+Backward complete
+Duration: 39.39
+Epoch: 26 | Trial: 0 | Duration: 1454.17
+Validation loss decreased (8.772906 --> 8.579376).  Saving model ...
+Forward complete
+Duration: 14.88
+Backward complete
+Duration: 38.79
+Epoch: 27 | Trial: 0 | Duration: 1507.84
+Validation loss decreased (8.579376 --> 8.432848).  Saving model ...
+Forward complete
+Duration: 14.55
+Backward complete
+Duration: 38.82
+Epoch: 28 | Trial: 0 | Duration: 1561.21
+Validation loss decreased (8.432848 --> 8.292999).  Saving model ...
+Forward complete
+Duration: 14.38
+Backward complete
+Duration: 38.40
+Epoch: 29 | Trial: 0 | Duration: 1613.99
+Validation loss decreased (8.292999 --> 7.992546).  Saving model ...
+Forward complete
+Duration: 14.59
+Backward complete
+Duration: 37.24
+Epoch: 30 | Trial: 0 | Duration: 1665.82
+ADDING FIGURE! Epoch 30
+Validation loss decreased (7.992546 --> 7.762552).  Saving model ...
+Forward complete
+Duration: 16.87
+Backward complete
+Duration: 37.51
+Epoch: 31 | Trial: 0 | Duration: 1720.20
+Validation loss decreased (7.762552 --> 7.568414).  Saving model ...
+Forward complete
+Duration: 14.85
+Backward complete
+Duration: 38.10
+Epoch: 32 | Trial: 0 | Duration: 1773.15
+Validation loss decreased (7.568414 --> 7.333468).  Saving model ...
+Forward complete
+Duration: 15.02
+Backward complete
+Duration: 38.32
+Epoch: 33 | Trial: 0 | Duration: 1826.49
+Validation loss decreased (7.333468 --> 6.834560).  Saving model ...
+Forward complete
+Duration: 14.99
+Backward complete
+Duration: 38.14
+Epoch: 34 | Trial: 0 | Duration: 1879.62
+Validation loss decreased (6.834560 --> 6.655985).  Saving model ...
+Forward complete
+Duration: 14.72
+Backward complete
+Duration: 37.98
+Epoch: 35 | Trial: 0 | Duration: 1932.32
+ADDING FIGURE! Epoch 35
+Validation loss decreased (6.655985 --> 6.515750).  Saving model ...
+Forward complete
+Duration: 16.87
+Backward complete
+Duration: 37.48
+Epoch: 36 | Trial: 0 | Duration: 1986.68
+Validation loss decreased (6.515750 --> 6.350369).  Saving model ...
+Forward complete
+Duration: 14.54
+Backward complete
+Duration: 38.79
+Epoch: 37 | Trial: 0 | Duration: 2040.01
+Validation loss decreased (6.350369 --> 6.303473).  Saving model ...
+Forward complete
+Duration: 15.02
+Backward complete
+Duration: 36.90
+Epoch: 38 | Trial: 0 | Duration: 2091.93
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 15.04
+Backward complete
+Duration: 38.76
+Epoch: 39 | Trial: 0 | Duration: 2145.73
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.52
+Backward complete
+Duration: 37.46
+Epoch: 40 | Trial: 0 | Duration: 2197.71
+ADDING FIGURE! Epoch 40
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 16.81
+Backward complete
+Duration: 38.46
+Epoch: 41 | Trial: 0 | Duration: 2252.98
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 14.67
+Backward complete
+Duration: 37.81
+Epoch: 42 | Trial: 0 | Duration: 2305.46
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 14.55
+Backward complete
+Duration: 37.47
+Epoch: 43 | Trial: 0 | Duration: 2357.48
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 14.76
+Backward complete
+Duration: 38.06
+Epoch: 44 | Trial: 0 | Duration: 2410.30
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 14.36
+Backward complete
+Duration: 37.58
+Epoch: 45 | Trial: 0 | Duration: 2462.25
+ADDING FIGURE! Epoch 45
+Validation loss decreased (6.303473 --> 6.257511).  Saving model ...
+Forward complete
+Duration: 16.75
+Backward complete
+Duration: 37.20
+Epoch: 46 | Trial: 0 | Duration: 2516.19
+Validation loss decreased (6.257511 --> 6.199578).  Saving model ...
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 38.65
+Epoch: 47 | Trial: 0 | Duration: 2569.43
+Validation loss decreased (6.199578 --> 6.140790).  Saving model ...
+Forward complete
+Duration: 14.53
+Backward complete
+Duration: 37.94
+Epoch: 48 | Trial: 0 | Duration: 2621.90
+Validation loss decreased (6.140790 --> 6.099006).  Saving model ...
+Forward complete
+Duration: 14.50
+Backward complete
+Duration: 38.52
+Epoch: 49 | Trial: 0 | Duration: 2674.92
+Validation loss decreased (6.099006 --> 6.071886).  Saving model ...
+Forward complete
+Duration: 14.51
+Backward complete
+Duration: 38.18
+Epoch: 50 | Trial: 0 | Duration: 2727.61
+ADDING FIGURE! Epoch 50
+Validation loss decreased (6.071886 --> 6.054857).  Saving model ...
+Forward complete
+Duration: 17.27
+Backward complete
+Duration: 39.04
+Epoch: 51 | Trial: 0 | Duration: 2783.92
+Validation loss decreased (6.054857 --> 6.050436).  Saving model ...
+Forward complete
+Duration: 15.00
+Backward complete
+Duration: 38.86
+Epoch: 52 | Trial: 0 | Duration: 2837.79
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.71
+Backward complete
+Duration: 39.02
+Epoch: 53 | Trial: 0 | Duration: 2891.52
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.33
+Backward complete
+Duration: 38.51
+Epoch: 54 | Trial: 0 | Duration: 2944.36
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 38.37
+Epoch: 55 | Trial: 0 | Duration: 2997.51
+ADDING FIGURE! Epoch 55
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 17.19
+Backward complete
+Duration: 38.34
+Epoch: 56 | Trial: 0 | Duration: 3053.05
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 14.69
+Backward complete
+Duration: 38.28
+Epoch: 57 | Trial: 0 | Duration: 3106.01
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 14.91
+Backward complete
+Duration: 38.48
+Epoch: 58 | Trial: 0 | Duration: 3159.40
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 14.51
+Backward complete
+Duration: 39.04
+Epoch: 59 | Trial: 0 | Duration: 3212.96
+EarlyStopping counter: 8 out of 300
+Forward complete
+Duration: 14.85
+Backward complete
+Duration: 38.35
+Epoch: 60 | Trial: 0 | Duration: 3266.15
+ADDING FIGURE! Epoch 60
+Validation loss decreased (6.050436 --> 6.042104).  Saving model ...
+Forward complete
+Duration: 16.75
+Backward complete
+Duration: 38.69
+Epoch: 61 | Trial: 0 | Duration: 3321.60
+Validation loss decreased (6.042104 --> 6.029573).  Saving model ...
+Forward complete
+Duration: 14.53
+Backward complete
+Duration: 39.43
+Epoch: 62 | Trial: 0 | Duration: 3375.55
+Validation loss decreased (6.029573 --> 6.018218).  Saving model ...
+Forward complete
+Duration: 14.77
+Backward complete
+Duration: 37.83
+Epoch: 63 | Trial: 0 | Duration: 3428.16
+Validation loss decreased (6.018218 --> 6.002798).  Saving model ...
+Forward complete
+Duration: 14.85
+Backward complete
+Duration: 38.61
+Epoch: 64 | Trial: 0 | Duration: 3481.61
+Validation loss decreased (6.002798 --> 5.994973).  Saving model ...
+Forward complete
+Duration: 14.86
+Backward complete
+Duration: 37.93
+Epoch: 65 | Trial: 0 | Duration: 3534.40
+ADDING FIGURE! Epoch 65
+Validation loss decreased (5.994973 --> 5.980583).  Saving model ...
+Forward complete
+Duration: 17.52
+Backward complete
+Duration: 38.78
+Epoch: 66 | Trial: 0 | Duration: 3590.71
+Validation loss decreased (5.980583 --> 5.977252).  Saving model ...
+Forward complete
+Duration: 14.89
+Backward complete
+Duration: 38.06
+Epoch: 67 | Trial: 0 | Duration: 3643.66
+Validation loss decreased (5.977252 --> 5.974084).  Saving model ...
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 38.54
+Epoch: 68 | Trial: 0 | Duration: 3696.94
+Validation loss decreased (5.974084 --> 5.969734).  Saving model ...
+Forward complete
+Duration: 14.77
+Backward complete
+Duration: 38.22
+Epoch: 69 | Trial: 0 | Duration: 3749.93
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.66
+Backward complete
+Duration: 39.28
+Epoch: 70 | Trial: 0 | Duration: 3803.87
+ADDING FIGURE! Epoch 70
+Validation loss decreased (5.969734 --> 5.965561).  Saving model ...
+Forward complete
+Duration: 17.24
+Backward complete
+Duration: 38.25
+Epoch: 71 | Trial: 0 | Duration: 3859.36
+Validation loss decreased (5.965561 --> 5.962229).  Saving model ...
+Forward complete
+Duration: 14.57
+Backward complete
+Duration: 39.08
+Epoch: 72 | Trial: 0 | Duration: 3913.01
+Validation loss decreased (5.962229 --> 5.955098).  Saving model ...
+Forward complete
+Duration: 14.64
+Backward complete
+Duration: 37.63
+Epoch: 73 | Trial: 0 | Duration: 3965.29
+Validation loss decreased (5.955098 --> 5.952241).  Saving model ...
+Forward complete
+Duration: 14.32
+Backward complete
+Duration: 38.69
+Epoch: 74 | Trial: 0 | Duration: 4018.29
+Validation loss decreased (5.952241 --> 5.942013).  Saving model ...
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 38.47
+Epoch: 75 | Trial: 0 | Duration: 4071.35
+ADDING FIGURE! Epoch 75
+Validation loss decreased (5.942013 --> 5.935572).  Saving model ...
+Forward complete
+Duration: 17.03
+Backward complete
+Duration: 39.38
+Epoch: 76 | Trial: 0 | Duration: 4127.76
+Validation loss decreased (5.935572 --> 5.928168).  Saving model ...
+Forward complete
+Duration: 14.77
+Backward complete
+Duration: 38.91
+Epoch: 77 | Trial: 0 | Duration: 4181.43
+Validation loss decreased (5.928168 --> 5.920763).  Saving model ...
+Forward complete
+Duration: 14.46
+Backward complete
+Duration: 39.72
+Epoch: 78 | Trial: 0 | Duration: 4235.61
+Validation loss decreased (5.920763 --> 5.915300).  Saving model ...
+Forward complete
+Duration: 14.36
+Backward complete
+Duration: 39.88
+Epoch: 79 | Trial: 0 | Duration: 4289.86
+Validation loss decreased (5.915300 --> 5.911380).  Saving model ...
+Forward complete
+Duration: 14.70
+Backward complete
+Duration: 39.49
+Epoch: 80 | Trial: 0 | Duration: 4344.05
+ADDING FIGURE! Epoch 80
+Validation loss decreased (5.911380 --> 5.907939).  Saving model ...
+Forward complete
+Duration: 17.12
+Backward complete
+Duration: 39.61
+Epoch: 81 | Trial: 0 | Duration: 4400.79
+Validation loss decreased (5.907939 --> 5.901766).  Saving model ...
+Forward complete
+Duration: 14.94
+Backward complete
+Duration: 39.31
+Epoch: 82 | Trial: 0 | Duration: 4455.03
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.53
+Backward complete
+Duration: 40.32
+Epoch: 83 | Trial: 0 | Duration: 4509.88
+Validation loss decreased (5.901766 --> 5.895201).  Saving model ...
+Forward complete
+Duration: 14.69
+Backward complete
+Duration: 39.08
+Epoch: 84 | Trial: 0 | Duration: 4563.65
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 39.18
+Epoch: 85 | Trial: 0 | Duration: 4617.23
+ADDING FIGURE! Epoch 85
+Validation loss decreased (5.895201 --> 5.887663).  Saving model ...
+Forward complete
+Duration: 17.12
+Backward complete
+Duration: 39.52
+Epoch: 86 | Trial: 0 | Duration: 4673.88
+Validation loss decreased (5.887663 --> 5.885871).  Saving model ...
+Forward complete
+Duration: 14.76
+Backward complete
+Duration: 39.24
+Epoch: 87 | Trial: 0 | Duration: 4727.87
+Validation loss decreased (5.885871 --> 5.878304).  Saving model ...
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 39.55
+Epoch: 88 | Trial: 0 | Duration: 4782.20
+Validation loss decreased (5.878304 --> 5.876738).  Saving model ...
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 40.02
+Epoch: 89 | Trial: 0 | Duration: 4836.79
+Validation loss decreased (5.876738 --> 5.870287).  Saving model ...
+Forward complete
+Duration: 14.57
+Backward complete
+Duration: 39.43
+Epoch: 90 | Trial: 0 | Duration: 4890.79
+ADDING FIGURE! Epoch 90
+Validation loss decreased (5.870287 --> 5.866740).  Saving model ...
+Forward complete
+Duration: 17.33
+Backward complete
+Duration: 39.73
+Epoch: 91 | Trial: 0 | Duration: 4947.85
+Validation loss decreased (5.866740 --> 5.861504).  Saving model ...
+Forward complete
+Duration: 14.48
+Backward complete
+Duration: 39.46
+Epoch: 92 | Trial: 0 | Duration: 5001.78
+Validation loss decreased (5.861504 --> 5.857633).  Saving model ...
+Forward complete
+Duration: 14.56
+Backward complete
+Duration: 38.31
+Epoch: 93 | Trial: 0 | Duration: 5054.65
+Validation loss decreased (5.857633 --> 5.854014).  Saving model ...
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 39.12
+Epoch: 94 | Trial: 0 | Duration: 5108.51
+Validation loss decreased (5.854014 --> 5.851293).  Saving model ...
+Forward complete
+Duration: 14.60
+Backward complete
+Duration: 39.80
+Epoch: 95 | Trial: 0 | Duration: 5162.91
+ADDING FIGURE! Epoch 95
+Validation loss decreased (5.851293 --> 5.846881).  Saving model ...
+Forward complete
+Duration: 16.94
+Backward complete
+Duration: 39.46
+Epoch: 96 | Trial: 0 | Duration: 5219.31
+Validation loss decreased (5.846881 --> 5.843116).  Saving model ...
+Forward complete
+Duration: 14.55
+Backward complete
+Duration: 39.46
+Epoch: 97 | Trial: 0 | Duration: 5273.32
+Validation loss decreased (5.843116 --> 5.838825).  Saving model ...
+Forward complete
+Duration: 14.54
+Backward complete
+Duration: 39.59
+Epoch: 98 | Trial: 0 | Duration: 5327.45
+Validation loss decreased (5.838825 --> 5.834742).  Saving model ...
+Forward complete
+Duration: 14.68
+Backward complete
+Duration: 38.67
+Epoch: 99 | Trial: 0 | Duration: 5380.80
+Validation loss decreased (5.834742 --> 5.831972).  Saving model ...
+Forward complete
+Duration: 14.29
+Backward complete
+Duration: 40.65
+Epoch: 100 | Trial: 0 | Duration: 5435.74
+ADDING FIGURE! Epoch 100
+Validation loss decreased (5.831972 --> 5.829182).  Saving model ...
+Forward complete
+Duration: 16.93
+Backward complete
+Duration: 40.93
+Epoch: 101 | Trial: 0 | Duration: 5493.60
+Validation loss decreased (5.829182 --> 5.825175).  Saving model ...
+Forward complete
+Duration: 14.45
+Backward complete
+Duration: 39.41
+Epoch: 102 | Trial: 0 | Duration: 5547.46
+Validation loss decreased (5.825175 --> 5.823535).  Saving model ...
+Forward complete
+Duration: 14.76
+Backward complete
+Duration: 40.46
+Epoch: 103 | Trial: 0 | Duration: 5602.68
+Validation loss decreased (5.823535 --> 5.817159).  Saving model ...
+Forward complete
+Duration: 14.83
+Backward complete
+Duration: 39.68
+Epoch: 104 | Trial: 0 | Duration: 5657.20
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.67
+Backward complete
+Duration: 38.35
+Epoch: 105 | Trial: 0 | Duration: 5710.22
+ADDING FIGURE! Epoch 105
+Validation loss decreased (5.817159 --> 5.810639).  Saving model ...
+Forward complete
+Duration: 16.71
+Backward complete
+Duration: 39.57
+Epoch: 106 | Trial: 0 | Duration: 5766.50
+Validation loss decreased (5.810639 --> 5.808691).  Saving model ...
+Forward complete
+Duration: 14.47
+Backward complete
+Duration: 40.01
+Epoch: 107 | Trial: 0 | Duration: 5820.98
+Validation loss decreased (5.808691 --> 5.804339).  Saving model ...
+Forward complete
+Duration: 14.63
+Backward complete
+Duration: 38.93
+Epoch: 108 | Trial: 0 | Duration: 5874.54
+Validation loss decreased (5.804339 --> 5.803124).  Saving model ...
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 39.27
+Epoch: 109 | Trial: 0 | Duration: 5928.59
+Validation loss decreased (5.803124 --> 5.796827).  Saving model ...
+Forward complete
+Duration: 14.67
+Backward complete
+Duration: 39.24
+Epoch: 110 | Trial: 0 | Duration: 5982.50
+ADDING FIGURE! Epoch 110
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 17.22
+Backward complete
+Duration: 40.64
+Epoch: 111 | Trial: 0 | Duration: 6040.37
+Validation loss decreased (5.796827 --> 5.790609).  Saving model ...
+Forward complete
+Duration: 14.67
+Backward complete
+Duration: 40.16
+Epoch: 112 | Trial: 0 | Duration: 6095.20
+Validation loss decreased (5.790609 --> 5.789574).  Saving model ...
+Forward complete
+Duration: 14.72
+Backward complete
+Duration: 38.89
+Epoch: 113 | Trial: 0 | Duration: 6148.81
+Validation loss decreased (5.789574 --> 5.784895).  Saving model ...
+Forward complete
+Duration: 14.80
+Backward complete
+Duration: 38.38
+Epoch: 114 | Trial: 0 | Duration: 6201.99
+Validation loss decreased (5.784895 --> 5.782464).  Saving model ...
+Forward complete
+Duration: 15.16
+Backward complete
+Duration: 39.88
+Epoch: 115 | Trial: 0 | Duration: 6257.03
+ADDING FIGURE! Epoch 115
+Validation loss decreased (5.782464 --> 5.777824).  Saving model ...
+Forward complete
+Duration: 16.87
+Backward complete
+Duration: 39.79
+Epoch: 116 | Trial: 0 | Duration: 6313.69
+Validation loss decreased (5.777824 --> 5.776505).  Saving model ...
+Forward complete
+Duration: 14.92
+Backward complete
+Duration: 40.09
+Epoch: 117 | Trial: 0 | Duration: 6368.71
+Validation loss decreased (5.776505 --> 5.773305).  Saving model ...
+Forward complete
+Duration: 14.71
+Backward complete
+Duration: 39.75
+Epoch: 118 | Trial: 0 | Duration: 6423.17
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 40.23
+Epoch: 119 | Trial: 0 | Duration: 6477.98
+Validation loss decreased (5.773305 --> 5.765630).  Saving model ...
+Forward complete
+Duration: 14.87
+Backward complete
+Duration: 39.18
+Epoch: 120 | Trial: 0 | Duration: 6532.03
+ADDING FIGURE! Epoch 120
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 17.33
+Backward complete
+Duration: 39.99
+Epoch: 121 | Trial: 0 | Duration: 6589.35
+Validation loss decreased (5.765630 --> 5.760241).  Saving model ...
+Forward complete
+Duration: 14.92
+Backward complete
+Duration: 40.52
+Epoch: 122 | Trial: 0 | Duration: 6644.80
+Validation loss decreased (5.760241 --> 5.758606).  Saving model ...
+Forward complete
+Duration: 14.42
+Backward complete
+Duration: 38.81
+Epoch: 123 | Trial: 0 | Duration: 6698.04
+Validation loss decreased (5.758606 --> 5.753452).  Saving model ...
+Forward complete
+Duration: 14.61
+Backward complete
+Duration: 40.13
+Epoch: 124 | Trial: 0 | Duration: 6752.78
+Validation loss decreased (5.753452 --> 5.752250).  Saving model ...
+Forward complete
+Duration: 14.65
+Backward complete
+Duration: 39.26
+Epoch: 125 | Trial: 0 | Duration: 6806.69
+ADDING FIGURE! Epoch 125
+Validation loss decreased (5.752250 --> 5.747671).  Saving model ...
+Forward complete
+Duration: 16.91
+Backward complete
+Duration: 40.36
+Epoch: 126 | Trial: 0 | Duration: 6863.97
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.85
+Backward complete
+Duration: 40.13
+Epoch: 127 | Trial: 0 | Duration: 6918.95
+Validation loss decreased (5.747671 --> 5.742076).  Saving model ...
+Forward complete
+Duration: 14.82
+Backward complete
+Duration: 40.19
+Epoch: 128 | Trial: 0 | Duration: 6973.96
+Validation loss decreased (5.742076 --> 5.740170).  Saving model ...
+Forward complete
+Duration: 14.89
+Backward complete
+Duration: 40.66
+Epoch: 129 | Trial: 0 | Duration: 7029.51
+Validation loss decreased (5.740170 --> 5.736549).  Saving model ...
+Forward complete
+Duration: 14.87
+Backward complete
+Duration: 40.00
+Epoch: 130 | Trial: 0 | Duration: 7084.38
+ADDING FIGURE! Epoch 130
+Validation loss decreased (5.736549 --> 5.735135).  Saving model ...
+Forward complete
+Duration: 16.56
+Backward complete
+Duration: 39.89
+Epoch: 131 | Trial: 0 | Duration: 7140.82
+Validation loss decreased (5.735135 --> 5.730793).  Saving model ...
+Forward complete
+Duration: 14.48
+Backward complete
+Duration: 39.60
+Epoch: 132 | Trial: 0 | Duration: 7194.90
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.88
+Backward complete
+Duration: 41.27
+Epoch: 133 | Trial: 0 | Duration: 7251.04
+Validation loss decreased (5.730793 --> 5.725714).  Saving model ...
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 40.80
+Epoch: 134 | Trial: 0 | Duration: 7306.58
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.80
+Backward complete
+Duration: 40.39
+Epoch: 135 | Trial: 0 | Duration: 7361.77
+ADDING FIGURE! Epoch 135
+Validation loss decreased (5.725714 --> 5.721134).  Saving model ...
+Forward complete
+Duration: 16.89
+Backward complete
+Duration: 40.26
+Epoch: 136 | Trial: 0 | Duration: 7418.92
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 15.14
+Backward complete
+Duration: 40.17
+Epoch: 137 | Trial: 0 | Duration: 7474.23
+Validation loss decreased (5.721134 --> 5.715062).  Saving model ...
+Forward complete
+Duration: 14.89
+Backward complete
+Duration: 40.43
+Epoch: 138 | Trial: 0 | Duration: 7529.54
+Validation loss decreased (5.715062 --> 5.712463).  Saving model ...
+Forward complete
+Duration: 14.84
+Backward complete
+Duration: 40.68
+Epoch: 139 | Trial: 0 | Duration: 7585.07
+Validation loss decreased (5.712463 --> 5.709538).  Saving model ...
+Forward complete
+Duration: 14.94
+Backward complete
+Duration: 40.89
+Epoch: 140 | Trial: 0 | Duration: 7640.89
+ADDING FIGURE! Epoch 140
+Validation loss decreased (5.709538 --> 5.707838).  Saving model ...
+Forward complete
+Duration: 16.96
+Backward complete
+Duration: 40.43
+Epoch: 141 | Trial: 0 | Duration: 7698.28
+Validation loss decreased (5.707838 --> 5.705476).  Saving model ...
+Forward complete
+Duration: 14.92
+Backward complete
+Duration: 39.91
+Epoch: 142 | Trial: 0 | Duration: 7753.12
+Validation loss decreased (5.705476 --> 5.702928).  Saving model ...
+Forward complete
+Duration: 14.35
+Backward complete
+Duration: 40.93
+Epoch: 143 | Trial: 0 | Duration: 7808.40
+Validation loss decreased (5.702928 --> 5.700305).  Saving model ...
+Forward complete
+Duration: 14.50
+Backward complete
+Duration: 39.23
+Epoch: 144 | Trial: 0 | Duration: 7862.14
+Validation loss decreased (5.700305 --> 5.696980).  Saving model ...
+Forward complete
+Duration: 14.84
+Backward complete
+Duration: 41.02
+Epoch: 145 | Trial: 0 | Duration: 7918.00
+ADDING FIGURE! Epoch 145
+Validation loss decreased (5.696980 --> 5.695879).  Saving model ...
+Forward complete
+Duration: 17.08
+Backward complete
+Duration: 40.91
+Epoch: 146 | Trial: 0 | Duration: 7975.99
+Validation loss decreased (5.695879 --> 5.692881).  Saving model ...
+Forward complete
+Duration: 14.96
+Backward complete
+Duration: 40.11
+Epoch: 147 | Trial: 0 | Duration: 8031.07
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 40.55
+Epoch: 148 | Trial: 0 | Duration: 8086.40
+Validation loss decreased (5.692881 --> 5.688372).  Saving model ...
+Forward complete
+Duration: 14.98
+Backward complete
+Duration: 40.43
+Epoch: 149 | Trial: 0 | Duration: 8141.80
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.82
+Backward complete
+Duration: 41.97
+Epoch: 150 | Trial: 0 | Duration: 8198.59
+ADDING FIGURE! Epoch 150
+Validation loss decreased (5.688372 --> 5.683558).  Saving model ...
+Forward complete
+Duration: 17.05
+Backward complete
+Duration: 40.74
+Epoch: 151 | Trial: 0 | Duration: 8256.38
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.81
+Backward complete
+Duration: 41.14
+Epoch: 152 | Trial: 0 | Duration: 8312.33
+Validation loss decreased (5.683558 --> 5.678386).  Saving model ...
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 39.67
+Epoch: 153 | Trial: 0 | Duration: 8366.78
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.81
+Backward complete
+Duration: 39.62
+Epoch: 154 | Trial: 0 | Duration: 8421.21
+Validation loss decreased (5.678386 --> 5.675430).  Saving model ...
+Forward complete
+Duration: 14.95
+Backward complete
+Duration: 39.76
+Epoch: 155 | Trial: 0 | Duration: 8475.92
+ADDING FIGURE! Epoch 155
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 17.05
+Backward complete
+Duration: 40.54
+Epoch: 156 | Trial: 0 | Duration: 8533.51
+Validation loss decreased (5.675430 --> 5.670698).  Saving model ...
+Forward complete
+Duration: 15.38
+Backward complete
+Duration: 40.83
+Epoch: 157 | Trial: 0 | Duration: 8589.72
+Validation loss decreased (5.670698 --> 5.668689).  Saving model ...
+Forward complete
+Duration: 15.10
+Backward complete
+Duration: 40.65
+Epoch: 158 | Trial: 0 | Duration: 8645.47
+Validation loss decreased (5.668689 --> 5.665977).  Saving model ...
+Forward complete
+Duration: 14.90
+Backward complete
+Duration: 41.25
+Epoch: 159 | Trial: 0 | Duration: 8701.62
+Validation loss decreased (5.665977 --> 5.663949).  Saving model ...
+Forward complete
+Duration: 14.55
+Backward complete
+Duration: 39.84
+Epoch: 160 | Trial: 0 | Duration: 8756.00
+ADDING FIGURE! Epoch 160
+Validation loss decreased (5.663949 --> 5.662314).  Saving model ...
+Forward complete
+Duration: 17.47
+Backward complete
+Duration: 41.36
+Epoch: 161 | Trial: 0 | Duration: 8814.86
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.92
+Backward complete
+Duration: 41.12
+Epoch: 162 | Trial: 0 | Duration: 8870.90
+Validation loss decreased (5.662314 --> 5.659479).  Saving model ...
+Forward complete
+Duration: 14.93
+Backward complete
+Duration: 39.78
+Epoch: 163 | Trial: 0 | Duration: 8925.60
+Validation loss decreased (5.659479 --> 5.656985).  Saving model ...
+Forward complete
+Duration: 14.70
+Backward complete
+Duration: 41.79
+Epoch: 164 | Trial: 0 | Duration: 8982.09
+Validation loss decreased (5.656985 --> 5.654212).  Saving model ...
+Forward complete
+Duration: 14.51
+Backward complete
+Duration: 41.10
+Epoch: 165 | Trial: 0 | Duration: 9037.70
+ADDING FIGURE! Epoch 165
+Validation loss decreased (5.654212 --> 5.652186).  Saving model ...
+Forward complete
+Duration: 17.15
+Backward complete
+Duration: 41.28
+Epoch: 166 | Trial: 0 | Duration: 9096.14
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 40.05
+Epoch: 167 | Trial: 0 | Duration: 9150.92
+Validation loss decreased (5.652186 --> 5.649770).  Saving model ...
+Forward complete
+Duration: 14.72
+Backward complete
+Duration: 42.30
+Epoch: 168 | Trial: 0 | Duration: 9207.95
+Validation loss decreased (5.649770 --> 5.647558).  Saving model ...
+Forward complete
+Duration: 14.82
+Backward complete
+Duration: 41.37
+Epoch: 169 | Trial: 0 | Duration: 9264.14
+Validation loss decreased (5.647558 --> 5.645134).  Saving model ...
+Forward complete
+Duration: 14.89
+Backward complete
+Duration: 40.14
+Epoch: 170 | Trial: 0 | Duration: 9319.17
+ADDING FIGURE! Epoch 170
+Validation loss decreased (5.645134 --> 5.643074).  Saving model ...
+Forward complete
+Duration: 17.55
+Backward complete
+Duration: 40.70
+Epoch: 171 | Trial: 0 | Duration: 9377.42
+Validation loss decreased (5.643074 --> 5.641997).  Saving model ...
+Forward complete
+Duration: 15.21
+Backward complete
+Duration: 41.66
+Epoch: 172 | Trial: 0 | Duration: 9434.29
+Validation loss decreased (5.641997 --> 5.639567).  Saving model ...
+Forward complete
+Duration: 15.04
+Backward complete
+Duration: 40.28
+Epoch: 173 | Trial: 0 | Duration: 9489.62
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.70
+Backward complete
+Duration: 41.83
+Epoch: 174 | Trial: 0 | Duration: 9546.15
+Validation loss decreased (5.639567 --> 5.637242).  Saving model ...
+Forward complete
+Duration: 14.53
+Backward complete
+Duration: 41.82
+Epoch: 175 | Trial: 0 | Duration: 9602.50
+ADDING FIGURE! Epoch 175
+Validation loss decreased (5.637242 --> 5.635958).  Saving model ...
+Forward complete
+Duration: 16.73
+Backward complete
+Duration: 42.54
+Epoch: 176 | Trial: 0 | Duration: 9661.76
+Validation loss decreased (5.635958 --> 5.633908).  Saving model ...
+Forward complete
+Duration: 14.90
+Backward complete
+Duration: 42.50
+Epoch: 177 | Trial: 0 | Duration: 9719.16
+Validation loss decreased (5.633908 --> 5.631520).  Saving model ...
+Forward complete
+Duration: 14.83
+Backward complete
+Duration: 41.84
+Epoch: 178 | Trial: 0 | Duration: 9775.84
+Validation loss decreased (5.631520 --> 5.629623).  Saving model ...
+Forward complete
+Duration: 14.87
+Backward complete
+Duration: 41.11
+Epoch: 179 | Trial: 0 | Duration: 9831.82
+Validation loss decreased (5.629623 --> 5.628290).  Saving model ...
+Forward complete
+Duration: 14.85
+Backward complete
+Duration: 41.68
+Epoch: 180 | Trial: 0 | Duration: 9888.35
+ADDING FIGURE! Epoch 180
+Validation loss decreased (5.628290 --> 5.626126).  Saving model ...
+Forward complete
+Duration: 17.27
+Backward complete
+Duration: 41.20
+Epoch: 181 | Trial: 0 | Duration: 9946.83
+Validation loss decreased (5.626126 --> 5.624880).  Saving model ...
+Forward complete
+Duration: 14.94
+Backward complete
+Duration: 41.22
+Epoch: 182 | Trial: 0 | Duration: 10002.99
+Validation loss decreased (5.624880 --> 5.623375).  Saving model ...
+Forward complete
+Duration: 14.65
+Backward complete
+Duration: 40.61
+Epoch: 183 | Trial: 0 | Duration: 10058.24
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.78
+Backward complete
+Duration: 40.12
+Epoch: 184 | Trial: 0 | Duration: 10113.13
+Validation loss decreased (5.623375 --> 5.620506).  Saving model ...
+Forward complete
+Duration: 14.59
+Backward complete
+Duration: 41.56
+Epoch: 185 | Trial: 0 | Duration: 10169.28
+ADDING FIGURE! Epoch 185
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 16.86
+Backward complete
+Duration: 41.58
+Epoch: 186 | Trial: 0 | Duration: 10227.73
+Validation loss decreased (5.620506 --> 5.617791).  Saving model ...
+Forward complete
+Duration: 14.90
+Backward complete
+Duration: 41.03
+Epoch: 187 | Trial: 0 | Duration: 10283.66
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.91
+Backward complete
+Duration: 43.23
+Epoch: 188 | Trial: 0 | Duration: 10341.80
+Validation loss decreased (5.617791 --> 5.614208).  Saving model ...
+Forward complete
+Duration: 14.40
+Backward complete
+Duration: 41.61
+Epoch: 189 | Trial: 0 | Duration: 10397.82
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.68
+Backward complete
+Duration: 42.55
+Epoch: 190 | Trial: 0 | Duration: 10455.04
+ADDING FIGURE! Epoch 190
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 16.98
+Backward complete
+Duration: 41.58
+Epoch: 191 | Trial: 0 | Duration: 10513.60
+Validation loss decreased (5.614208 --> 5.612735).  Saving model ...
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 43.04
+Epoch: 192 | Trial: 0 | Duration: 10571.23
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.87
+Backward complete
+Duration: 41.26
+Epoch: 193 | Trial: 0 | Duration: 10627.36
+Validation loss decreased (5.612735 --> 5.607481).  Saving model ...
+Forward complete
+Duration: 14.48
+Backward complete
+Duration: 42.55
+Epoch: 194 | Trial: 0 | Duration: 10684.40
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.63
+Backward complete
+Duration: 42.78
+Epoch: 195 | Trial: 0 | Duration: 10741.81
+ADDING FIGURE! Epoch 195
+Validation loss decreased (5.607481 --> 5.605069).  Saving model ...
+Forward complete
+Duration: 16.99
+Backward complete
+Duration: 42.19
+Epoch: 196 | Trial: 0 | Duration: 10800.99
+Validation loss decreased (5.605069 --> 5.603771).  Saving model ...
+Forward complete
+Duration: 14.66
+Backward complete
+Duration: 42.88
+Epoch: 197 | Trial: 0 | Duration: 10858.54
+Validation loss decreased (5.603771 --> 5.602634).  Saving model ...
+Forward complete
+Duration: 14.98
+Backward complete
+Duration: 44.51
+Epoch: 198 | Trial: 0 | Duration: 10918.02
+Validation loss decreased (5.602634 --> 5.601265).  Saving model ...
+Forward complete
+Duration: 15.00
+Backward complete
+Duration: 41.00
+Epoch: 199 | Trial: 0 | Duration: 10974.03
+Validation loss decreased (5.601265 --> 5.600159).  Saving model ...
+Finished Training, 200 epochs
+Condition:  1
+constant = True | distribution = manual
+Starting Simulation...
+Duration 13.31 s
+constant = False | distribution = linear
+linear
+Forward complete
+Duration: 14.05
+Backward complete
+Duration: 36.43
+Epoch: 0 | Trial: 0 | Duration: 50.48
+ADDING FIGURE! Epoch 0
+Forward complete
+Duration: 16.09
+Backward complete
+Duration: 36.01
+Epoch: 1 | Trial: 0 | Duration: 102.58
+Validation loss decreased (inf --> 13.890326).  Saving model ...
+Forward complete
+Duration: 14.22
+Backward complete
+Duration: 37.24
+Epoch: 2 | Trial: 0 | Duration: 154.04
+Validation loss decreased (13.890326 --> 13.170410).  Saving model ...
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 36.05
+Epoch: 3 | Trial: 0 | Duration: 204.35
+Validation loss decreased (13.170410 --> 12.328903).  Saving model ...
+Forward complete
+Duration: 14.37
+Backward complete
+Duration: 36.52
+Epoch: 4 | Trial: 0 | Duration: 255.25
+Validation loss decreased (12.328903 --> 11.707544).  Saving model ...
+Forward complete
+Duration: 14.13
+Backward complete
+Duration: 36.96
+Epoch: 5 | Trial: 0 | Duration: 306.34
+ADDING FIGURE! Epoch 5
+Validation loss decreased (11.707544 --> 10.991003).  Saving model ...
+Forward complete
+Duration: 16.72
+Backward complete
+Duration: 36.88
+Epoch: 6 | Trial: 0 | Duration: 359.94
+Validation loss decreased (10.991003 --> 10.591846).  Saving model ...
+Forward complete
+Duration: 13.99
+Backward complete
+Duration: 36.26
+Epoch: 7 | Trial: 0 | Duration: 410.19
+Validation loss decreased (10.591846 --> 10.433579).  Saving model ...
+Forward complete
+Duration: 14.51
+Backward complete
+Duration: 37.00
+Epoch: 8 | Trial: 0 | Duration: 461.69
+Validation loss decreased (10.433579 --> 10.310647).  Saving model ...
+Forward complete
+Duration: 14.69
+Backward complete
+Duration: 36.71
+Epoch: 9 | Trial: 0 | Duration: 513.10
+Validation loss decreased (10.310647 --> 10.161376).  Saving model ...
+Forward complete
+Duration: 14.46
+Backward complete
+Duration: 36.24
+Epoch: 10 | Trial: 0 | Duration: 563.80
+ADDING FIGURE! Epoch 10
+Validation loss decreased (10.161376 --> 9.860055).  Saving model ...
+Forward complete
+Duration: 16.70
+Backward complete
+Duration: 37.06
+Epoch: 11 | Trial: 0 | Duration: 617.56
+Validation loss decreased (9.860055 --> 9.341589).  Saving model ...
+Forward complete
+Duration: 14.40
+Backward complete
+Duration: 37.09
+Epoch: 12 | Trial: 0 | Duration: 669.04
+Validation loss decreased (9.341589 --> 8.832280).  Saving model ...
+Forward complete
+Duration: 14.86
+Backward complete
+Duration: 36.23
+Epoch: 13 | Trial: 0 | Duration: 720.13
+Validation loss decreased (8.832280 --> 8.442890).  Saving model ...
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 36.60
+Epoch: 14 | Trial: 0 | Duration: 771.00
+Validation loss decreased (8.442890 --> 8.175248).  Saving model ...
+Forward complete
+Duration: 14.55
+Backward complete
+Duration: 36.55
+Epoch: 15 | Trial: 0 | Duration: 822.09
+ADDING FIGURE! Epoch 15
+Validation loss decreased (8.175248 --> 7.834875).  Saving model ...
+Forward complete
+Duration: 17.30
+Backward complete
+Duration: 36.16
+Epoch: 16 | Trial: 0 | Duration: 875.55
+Validation loss decreased (7.834875 --> 7.657908).  Saving model ...
+Forward complete
+Duration: 14.94
+Backward complete
+Duration: 37.34
+Epoch: 17 | Trial: 0 | Duration: 927.84
+Validation loss decreased (7.657908 --> 7.326814).  Saving model ...
+Forward complete
+Duration: 14.21
+Backward complete
+Duration: 36.66
+Epoch: 18 | Trial: 0 | Duration: 978.71
+Validation loss decreased (7.326814 --> 7.243912).  Saving model ...
+Forward complete
+Duration: 14.47
+Backward complete
+Duration: 35.97
+Epoch: 19 | Trial: 0 | Duration: 1029.15
+Validation loss decreased (7.243912 --> 7.141237).  Saving model ...
+Forward complete
+Duration: 14.58
+Backward complete
+Duration: 35.45
+Epoch: 20 | Trial: 0 | Duration: 1079.20
+ADDING FIGURE! Epoch 20
+Validation loss decreased (7.141237 --> 7.122616).  Saving model ...
+Forward complete
+Duration: 16.47
+Backward complete
+Duration: 35.56
+Epoch: 21 | Trial: 0 | Duration: 1131.23
+Validation loss decreased (7.122616 --> 7.085365).  Saving model ...
+Forward complete
+Duration: 13.94
+Backward complete
+Duration: 36.25
+Epoch: 22 | Trial: 0 | Duration: 1181.42
+Validation loss decreased (7.085365 --> 7.052249).  Saving model ...
+Forward complete
+Duration: 14.54
+Backward complete
+Duration: 36.20
+Epoch: 23 | Trial: 0 | Duration: 1232.16
+Validation loss decreased (7.052249 --> 6.994337).  Saving model ...
+Forward complete
+Duration: 14.23
+Backward complete
+Duration: 36.48
+Epoch: 24 | Trial: 0 | Duration: 1282.87
+Validation loss decreased (6.994337 --> 6.876142).  Saving model ...
+Forward complete
+Duration: 14.36
+Backward complete
+Duration: 35.33
+Epoch: 25 | Trial: 0 | Duration: 1332.56
+ADDING FIGURE! Epoch 25
+Validation loss decreased (6.876142 --> 6.805328).  Saving model ...
+Forward complete
+Duration: 16.30
+Backward complete
+Duration: 36.78
+Epoch: 26 | Trial: 0 | Duration: 1385.65
+Validation loss decreased (6.805328 --> 6.679024).  Saving model ...
+Forward complete
+Duration: 14.23
+Backward complete
+Duration: 35.84
+Epoch: 27 | Trial: 0 | Duration: 1435.72
+Validation loss decreased (6.679024 --> 6.511147).  Saving model ...
+Forward complete
+Duration: 14.27
+Backward complete
+Duration: 36.93
+Epoch: 28 | Trial: 0 | Duration: 1486.92
+Validation loss decreased (6.511147 --> 6.403706).  Saving model ...
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 36.69
+Epoch: 29 | Trial: 0 | Duration: 1538.01
+Validation loss decreased (6.403706 --> 6.317834).  Saving model ...
+Forward complete
+Duration: 14.35
+Backward complete
+Duration: 35.31
+Epoch: 30 | Trial: 0 | Duration: 1587.67
+ADDING FIGURE! Epoch 30
+Validation loss decreased (6.317834 --> 6.202959).  Saving model ...
+Forward complete
+Duration: 16.36
+Backward complete
+Duration: 34.61
+Epoch: 31 | Trial: 0 | Duration: 1638.65
+Validation loss decreased (6.202959 --> 6.167350).  Saving model ...
+Forward complete
+Duration: 14.10
+Backward complete
+Duration: 35.86
+Epoch: 32 | Trial: 0 | Duration: 1688.61
+Validation loss decreased (6.167350 --> 6.109756).  Saving model ...
+Forward complete
+Duration: 14.74
+Backward complete
+Duration: 34.46
+Epoch: 33 | Trial: 0 | Duration: 1737.82
+Validation loss decreased (6.109756 --> 5.973931).  Saving model ...
+Forward complete
+Duration: 14.19
+Backward complete
+Duration: 36.60
+Epoch: 34 | Trial: 0 | Duration: 1788.62
+Validation loss decreased (5.973931 --> 5.915812).  Saving model ...
+Forward complete
+Duration: 14.46
+Backward complete
+Duration: 34.78
+Epoch: 35 | Trial: 0 | Duration: 1837.86
+ADDING FIGURE! Epoch 35
+Validation loss decreased (5.915812 --> 5.879409).  Saving model ...
+Forward complete
+Duration: 16.91
+Backward complete
+Duration: 35.48
+Epoch: 36 | Trial: 0 | Duration: 1890.25
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.11
+Backward complete
+Duration: 36.15
+Epoch: 37 | Trial: 0 | Duration: 1940.52
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 13.99
+Backward complete
+Duration: 36.64
+Epoch: 38 | Trial: 0 | Duration: 1991.15
+Validation loss decreased (5.879409 --> 5.818145).  Saving model ...
+Forward complete
+Duration: 14.44
+Backward complete
+Duration: 36.12
+Epoch: 39 | Trial: 0 | Duration: 2041.72
+Validation loss decreased (5.818145 --> 5.764556).  Saving model ...
+Forward complete
+Duration: 14.03
+Backward complete
+Duration: 36.16
+Epoch: 40 | Trial: 0 | Duration: 2091.91
+ADDING FIGURE! Epoch 40
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 16.59
+Backward complete
+Duration: 35.75
+Epoch: 41 | Trial: 0 | Duration: 2144.25
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.48
+Backward complete
+Duration: 36.09
+Epoch: 42 | Trial: 0 | Duration: 2194.82
+Validation loss decreased (5.764556 --> 5.739318).  Saving model ...
+Forward complete
+Duration: 14.20
+Backward complete
+Duration: 35.93
+Epoch: 43 | Trial: 0 | Duration: 2244.95
+Validation loss decreased (5.739318 --> 5.671027).  Saving model ...
+Forward complete
+Duration: 14.29
+Backward complete
+Duration: 36.09
+Epoch: 44 | Trial: 0 | Duration: 2295.33
+Validation loss decreased (5.671027 --> 5.578459).  Saving model ...
+Forward complete
+Duration: 14.27
+Backward complete
+Duration: 36.45
+Epoch: 45 | Trial: 0 | Duration: 2346.05
+ADDING FIGURE! Epoch 45
+Validation loss decreased (5.578459 --> 5.529967).  Saving model ...
+Forward complete
+Duration: 16.58
+Backward complete
+Duration: 36.09
+Epoch: 46 | Trial: 0 | Duration: 2398.74
+Validation loss decreased (5.529967 --> 5.486157).  Saving model ...
+Forward complete
+Duration: 14.01
+Backward complete
+Duration: 36.72
+Epoch: 47 | Trial: 0 | Duration: 2449.48
+Validation loss decreased (5.486157 --> 5.440598).  Saving model ...
+Forward complete
+Duration: 13.94
+Backward complete
+Duration: 35.43
+Epoch: 48 | Trial: 0 | Duration: 2498.86
+Validation loss decreased (5.440598 --> 5.375687).  Saving model ...
+Forward complete
+Duration: 13.96
+Backward complete
+Duration: 34.87
+Epoch: 49 | Trial: 0 | Duration: 2547.68
+Validation loss decreased (5.375687 --> 5.285264).  Saving model ...
+Forward complete
+Duration: 14.34
+Backward complete
+Duration: 35.22
+Epoch: 50 | Trial: 0 | Duration: 2597.23
+ADDING FIGURE! Epoch 50
+Validation loss decreased (5.285264 --> 5.192200).  Saving model ...
+Forward complete
+Duration: 16.76
+Backward complete
+Duration: 35.15
+Epoch: 51 | Trial: 0 | Duration: 2649.15
+Validation loss decreased (5.192200 --> 5.062610).  Saving model ...
+Forward complete
+Duration: 14.77
+Backward complete
+Duration: 35.50
+Epoch: 52 | Trial: 0 | Duration: 2699.42
+Validation loss decreased (5.062610 --> 4.987230).  Saving model ...
+Forward complete
+Duration: 14.01
+Backward complete
+Duration: 35.03
+Epoch: 53 | Trial: 0 | Duration: 2748.45
+Validation loss decreased (4.987230 --> 4.905312).  Saving model ...
+Forward complete
+Duration: 14.34
+Backward complete
+Duration: 35.73
+Epoch: 54 | Trial: 0 | Duration: 2798.53
+Validation loss decreased (4.905312 --> 4.806034).  Saving model ...
+Forward complete
+Duration: 14.14
+Backward complete
+Duration: 36.04
+Epoch: 55 | Trial: 0 | Duration: 2848.71
+ADDING FIGURE! Epoch 55
+Validation loss decreased (4.806034 --> 4.635227).  Saving model ...
+Forward complete
+Duration: 16.14
+Backward complete
+Duration: 36.38
+Epoch: 56 | Trial: 0 | Duration: 2901.22
+Validation loss decreased (4.635227 --> 4.549736).  Saving model ...
+Forward complete
+Duration: 14.65
+Backward complete
+Duration: 35.77
+Epoch: 57 | Trial: 0 | Duration: 2951.65
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.02
+Backward complete
+Duration: 35.61
+Epoch: 58 | Trial: 0 | Duration: 3001.28
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 35.42
+Epoch: 59 | Trial: 0 | Duration: 3051.11
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 14.21
+Backward complete
+Duration: 36.19
+Epoch: 60 | Trial: 0 | Duration: 3101.51
+ADDING FIGURE! Epoch 60
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 16.80
+Backward complete
+Duration: 35.65
+Epoch: 61 | Trial: 0 | Duration: 3153.96
+Validation loss decreased (4.549736 --> 4.526645).  Saving model ...
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 34.56
+Epoch: 62 | Trial: 0 | Duration: 3202.93
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.24
+Backward complete
+Duration: 35.83
+Epoch: 63 | Trial: 0 | Duration: 3253.00
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.19
+Backward complete
+Duration: 34.65
+Epoch: 64 | Trial: 0 | Duration: 3301.84
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 14.35
+Backward complete
+Duration: 35.57
+Epoch: 65 | Trial: 0 | Duration: 3351.77
+ADDING FIGURE! Epoch 65
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 16.33
+Backward complete
+Duration: 36.13
+Epoch: 66 | Trial: 0 | Duration: 3404.22
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 14.05
+Backward complete
+Duration: 34.68
+Epoch: 67 | Trial: 0 | Duration: 3452.95
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 14.05
+Backward complete
+Duration: 35.64
+Epoch: 68 | Trial: 0 | Duration: 3502.64
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 14.33
+Backward complete
+Duration: 34.88
+Epoch: 69 | Trial: 0 | Duration: 3551.86
+EarlyStopping counter: 8 out of 300
+Forward complete
+Duration: 14.06
+Backward complete
+Duration: 35.29
+Epoch: 70 | Trial: 0 | Duration: 3601.21
+ADDING FIGURE! Epoch 70
+EarlyStopping counter: 9 out of 300
+Forward complete
+Duration: 16.38
+Backward complete
+Duration: 35.35
+Epoch: 71 | Trial: 0 | Duration: 3652.94
+EarlyStopping counter: 10 out of 300
+Forward complete
+Duration: 14.33
+Backward complete
+Duration: 34.66
+Epoch: 72 | Trial: 0 | Duration: 3701.92
+EarlyStopping counter: 11 out of 300
+Forward complete
+Duration: 14.21
+Backward complete
+Duration: 35.19
+Epoch: 73 | Trial: 0 | Duration: 3751.32
+EarlyStopping counter: 12 out of 300
+Forward complete
+Duration: 14.18
+Backward complete
+Duration: 35.09
+Epoch: 74 | Trial: 0 | Duration: 3800.59
+EarlyStopping counter: 13 out of 300
+Forward complete
+Duration: 14.29
+Backward complete
+Duration: 36.07
+Epoch: 75 | Trial: 0 | Duration: 3850.95
+ADDING FIGURE! Epoch 75
+Validation loss decreased (4.526645 --> 4.508992).  Saving model ...
+Forward complete
+Duration: 16.55
+Backward complete
+Duration: 35.61
+Epoch: 76 | Trial: 0 | Duration: 3903.11
+Validation loss decreased (4.508992 --> 4.466779).  Saving model ...
+Forward complete
+Duration: 13.97
+Backward complete
+Duration: 36.36
+Epoch: 77 | Trial: 0 | Duration: 3953.44
+Validation loss decreased (4.466779 --> 4.447528).  Saving model ...
+Forward complete
+Duration: 14.06
+Backward complete
+Duration: 35.94
+Epoch: 78 | Trial: 0 | Duration: 4003.45
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 13.98
+Backward complete
+Duration: 34.70
+Epoch: 79 | Trial: 0 | Duration: 4052.13
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.24
+Backward complete
+Duration: 35.28
+Epoch: 80 | Trial: 0 | Duration: 4101.65
+ADDING FIGURE! Epoch 80
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 16.73
+Backward complete
+Duration: 35.67
+Epoch: 81 | Trial: 0 | Duration: 4154.05
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 14.15
+Backward complete
+Duration: 36.26
+Epoch: 82 | Trial: 0 | Duration: 4204.47
+Validation loss decreased (4.447528 --> 4.442710).  Saving model ...
+Forward complete
+Duration: 14.12
+Backward complete
+Duration: 36.05
+Epoch: 83 | Trial: 0 | Duration: 4254.64
+Validation loss decreased (4.442710 --> 4.425016).  Saving model ...
+Forward complete
+Duration: 14.09
+Backward complete
+Duration: 36.68
+Epoch: 84 | Trial: 0 | Duration: 4305.41
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 13.97
+Backward complete
+Duration: 35.38
+Epoch: 85 | Trial: 0 | Duration: 4354.76
+ADDING FIGURE! Epoch 85
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 16.53
+Backward complete
+Duration: 35.67
+Epoch: 86 | Trial: 0 | Duration: 4406.96
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 34.97
+Epoch: 87 | Trial: 0 | Duration: 4456.36
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 35.11
+Epoch: 88 | Trial: 0 | Duration: 4505.73
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 14.47
+Backward complete
+Duration: 35.97
+Epoch: 89 | Trial: 0 | Duration: 4556.17
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 14.31
+Backward complete
+Duration: 36.48
+Epoch: 90 | Trial: 0 | Duration: 4606.96
+ADDING FIGURE! Epoch 90
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 16.95
+Backward complete
+Duration: 35.61
+Epoch: 91 | Trial: 0 | Duration: 4659.52
+Validation loss decreased (4.425016 --> 4.420406).  Saving model ...
+Forward complete
+Duration: 14.47
+Backward complete
+Duration: 36.59
+Epoch: 92 | Trial: 0 | Duration: 4710.58
+Validation loss decreased (4.420406 --> 4.397854).  Saving model ...
+Forward complete
+Duration: 14.07
+Backward complete
+Duration: 36.44
+Epoch: 93 | Trial: 0 | Duration: 4761.09
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.44
+Backward complete
+Duration: 35.42
+Epoch: 94 | Trial: 0 | Duration: 4810.95
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.25
+Backward complete
+Duration: 36.58
+Epoch: 95 | Trial: 0 | Duration: 4861.79
+ADDING FIGURE! Epoch 95
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 16.71
+Backward complete
+Duration: 35.45
+Epoch: 96 | Trial: 0 | Duration: 4913.95
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 14.41
+Backward complete
+Duration: 36.43
+Epoch: 97 | Trial: 0 | Duration: 4964.79
+Validation loss decreased (4.397854 --> 4.381395).  Saving model ...
+Forward complete
+Duration: 14.40
+Backward complete
+Duration: 36.10
+Epoch: 98 | Trial: 0 | Duration: 5015.29
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.59
+Backward complete
+Duration: 35.34
+Epoch: 99 | Trial: 0 | Duration: 5065.22
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 35.51
+Epoch: 100 | Trial: 0 | Duration: 5115.00
+ADDING FIGURE! Epoch 100
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 16.53
+Backward complete
+Duration: 36.21
+Epoch: 101 | Trial: 0 | Duration: 5167.74
+Validation loss decreased (4.381395 --> 4.379829).  Saving model ...
+Forward complete
+Duration: 14.50
+Backward complete
+Duration: 36.43
+Epoch: 102 | Trial: 0 | Duration: 5218.67
+Validation loss decreased (4.379829 --> 4.378329).  Saving model ...
+Forward complete
+Duration: 14.17
+Backward complete
+Duration: 36.04
+Epoch: 103 | Trial: 0 | Duration: 5268.87
+Validation loss decreased (4.378329 --> 4.376019).  Saving model ...
+Forward complete
+Duration: 14.45
+Backward complete
+Duration: 36.73
+Epoch: 104 | Trial: 0 | Duration: 5320.06
+Validation loss decreased (4.376019 --> 4.369041).  Saving model ...
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 36.11
+Epoch: 105 | Trial: 0 | Duration: 5370.43
+ADDING FIGURE! Epoch 105
+Validation loss decreased (4.369041 --> 4.365186).  Saving model ...
+Forward complete
+Duration: 16.64
+Backward complete
+Duration: 36.14
+Epoch: 106 | Trial: 0 | Duration: 5423.21
+Validation loss decreased (4.365186 --> 4.361875).  Saving model ...
+Forward complete
+Duration: 14.39
+Backward complete
+Duration: 35.97
+Epoch: 107 | Trial: 0 | Duration: 5473.58
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.04
+Backward complete
+Duration: 36.14
+Epoch: 108 | Trial: 0 | Duration: 5523.76
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 13.92
+Backward complete
+Duration: 35.66
+Epoch: 109 | Trial: 0 | Duration: 5573.35
+Validation loss decreased (4.361875 --> 4.360299).  Saving model ...
+Forward complete
+Duration: 13.90
+Backward complete
+Duration: 35.98
+Epoch: 110 | Trial: 0 | Duration: 5623.22
+ADDING FIGURE! Epoch 110
+Validation loss decreased (4.360299 --> 4.351251).  Saving model ...
+Forward complete
+Duration: 16.32
+Backward complete
+Duration: 36.62
+Epoch: 111 | Trial: 0 | Duration: 5676.15
+Validation loss decreased (4.351251 --> 4.347559).  Saving model ...
+Forward complete
+Duration: 14.57
+Backward complete
+Duration: 36.29
+Epoch: 112 | Trial: 0 | Duration: 5727.02
+Validation loss decreased (4.347559 --> 4.341359).  Saving model ...
+Forward complete
+Duration: 14.49
+Backward complete
+Duration: 35.96
+Epoch: 113 | Trial: 0 | Duration: 5777.46
+Validation loss decreased (4.341359 --> 4.339475).  Saving model ...
+Forward complete
+Duration: 14.37
+Backward complete
+Duration: 35.76
+Epoch: 114 | Trial: 0 | Duration: 5827.59
+Validation loss decreased (4.339475 --> 4.338252).  Saving model ...
+Forward complete
+Duration: 14.17
+Backward complete
+Duration: 36.73
+Epoch: 115 | Trial: 0 | Duration: 5878.48
+ADDING FIGURE! Epoch 115
+Validation loss decreased (4.338252 --> 4.334880).  Saving model ...
+Forward complete
+Duration: 16.94
+Backward complete
+Duration: 36.25
+Epoch: 116 | Trial: 0 | Duration: 5931.67
+Validation loss decreased (4.334880 --> 4.332501).  Saving model ...
+Forward complete
+Duration: 14.03
+Backward complete
+Duration: 36.02
+Epoch: 117 | Trial: 0 | Duration: 5981.72
+Validation loss decreased (4.332501 --> 4.330649).  Saving model ...
+Forward complete
+Duration: 14.25
+Backward complete
+Duration: 35.69
+Epoch: 118 | Trial: 0 | Duration: 6031.66
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.05
+Backward complete
+Duration: 35.48
+Epoch: 119 | Trial: 0 | Duration: 6081.19
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.15
+Backward complete
+Duration: 36.67
+Epoch: 120 | Trial: 0 | Duration: 6132.02
+ADDING FIGURE! Epoch 120
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 16.50
+Backward complete
+Duration: 35.37
+Epoch: 121 | Trial: 0 | Duration: 6183.88
+Validation loss decreased (4.330649 --> 4.327257).  Saving model ...
+Forward complete
+Duration: 14.38
+Backward complete
+Duration: 35.91
+Epoch: 122 | Trial: 0 | Duration: 6234.17
+Validation loss decreased (4.327257 --> 4.324487).  Saving model ...
+Forward complete
+Duration: 13.96
+Backward complete
+Duration: 36.22
+Epoch: 123 | Trial: 0 | Duration: 6284.35
+Validation loss decreased (4.324487 --> 4.289822).  Saving model ...
+Forward complete
+Duration: 13.88
+Backward complete
+Duration: 36.09
+Epoch: 124 | Trial: 0 | Duration: 6334.32
+Validation loss decreased (4.289822 --> 4.265893).  Saving model ...
+Forward complete
+Duration: 14.25
+Backward complete
+Duration: 35.71
+Epoch: 125 | Trial: 0 | Duration: 6384.28
+ADDING FIGURE! Epoch 125
+Validation loss decreased (4.265893 --> 4.228926).  Saving model ...
+Forward complete
+Duration: 16.16
+Backward complete
+Duration: 34.61
+Epoch: 126 | Trial: 0 | Duration: 6435.07
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 14.40
+Backward complete
+Duration: 35.55
+Epoch: 127 | Trial: 0 | Duration: 6485.03
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.26
+Backward complete
+Duration: 35.04
+Epoch: 128 | Trial: 0 | Duration: 6534.34
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 13.91
+Backward complete
+Duration: 34.51
+Epoch: 129 | Trial: 0 | Duration: 6582.76
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 14.06
+Backward complete
+Duration: 36.02
+Epoch: 130 | Trial: 0 | Duration: 6632.84
+ADDING FIGURE! Epoch 130
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 16.51
+Backward complete
+Duration: 35.93
+Epoch: 131 | Trial: 0 | Duration: 6685.28
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 14.08
+Backward complete
+Duration: 36.06
+Epoch: 132 | Trial: 0 | Duration: 6735.43
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 14.19
+Backward complete
+Duration: 35.54
+Epoch: 133 | Trial: 0 | Duration: 6785.15
+EarlyStopping counter: 8 out of 300
+Forward complete
+Duration: 14.14
+Backward complete
+Duration: 36.40
+Epoch: 134 | Trial: 0 | Duration: 6835.69
+EarlyStopping counter: 9 out of 300
+Forward complete
+Duration: 14.13
+Backward complete
+Duration: 36.76
+Epoch: 135 | Trial: 0 | Duration: 6886.58
+ADDING FIGURE! Epoch 135
+EarlyStopping counter: 10 out of 300
+Forward complete
+Duration: 16.29
+Backward complete
+Duration: 36.57
+Epoch: 136 | Trial: 0 | Duration: 6939.44
+EarlyStopping counter: 11 out of 300
+Forward complete
+Duration: 14.25
+Backward complete
+Duration: 35.37
+Epoch: 137 | Trial: 0 | Duration: 6989.06
+EarlyStopping counter: 12 out of 300
+Forward complete
+Duration: 14.22
+Backward complete
+Duration: 35.94
+Epoch: 138 | Trial: 0 | Duration: 7039.23
+EarlyStopping counter: 13 out of 300
+Forward complete
+Duration: 14.08
+Backward complete
+Duration: 36.01
+Epoch: 139 | Trial: 0 | Duration: 7089.32
+EarlyStopping counter: 14 out of 300
+Forward complete
+Duration: 14.09
+Backward complete
+Duration: 35.15
+Epoch: 140 | Trial: 0 | Duration: 7138.56
+ADDING FIGURE! Epoch 140
+EarlyStopping counter: 15 out of 300
+Forward complete
+Duration: 16.39
+Backward complete
+Duration: 35.64
+Epoch: 141 | Trial: 0 | Duration: 7190.59
+EarlyStopping counter: 16 out of 300
+Forward complete
+Duration: 14.01
+Backward complete
+Duration: 35.98
+Epoch: 142 | Trial: 0 | Duration: 7240.59
+EarlyStopping counter: 17 out of 300
+Forward complete
+Duration: 14.25
+Backward complete
+Duration: 35.45
+Epoch: 143 | Trial: 0 | Duration: 7290.28
+Validation loss decreased (4.228926 --> 4.193480).  Saving model ...
+Forward complete
+Duration: 13.90
+Backward complete
+Duration: 36.46
+Epoch: 144 | Trial: 0 | Duration: 7340.65
+Validation loss decreased (4.193480 --> 4.180501).  Saving model ...
+Forward complete
+Duration: 14.51
+Backward complete
+Duration: 36.52
+Epoch: 145 | Trial: 0 | Duration: 7391.68
+ADDING FIGURE! Epoch 145
+EarlyStopping counter: 1 out of 300
+Forward complete
+Duration: 16.46
+Backward complete
+Duration: 35.27
+Epoch: 146 | Trial: 0 | Duration: 7443.41
+EarlyStopping counter: 2 out of 300
+Forward complete
+Duration: 14.45
+Backward complete
+Duration: 35.74
+Epoch: 147 | Trial: 0 | Duration: 7493.60
+EarlyStopping counter: 3 out of 300
+Forward complete
+Duration: 13.79
+Backward complete
+Duration: 36.39
+Epoch: 148 | Trial: 0 | Duration: 7543.78
+EarlyStopping counter: 4 out of 300
+Forward complete
+Duration: 13.98
+Backward complete
+Duration: 37.08
+Epoch: 149 | Trial: 0 | Duration: 7594.84
+EarlyStopping counter: 5 out of 300
+Forward complete
+Duration: 14.32
+Backward complete
+Duration: 36.80
+Epoch: 150 | Trial: 0 | Duration: 7645.97
+ADDING FIGURE! Epoch 150
+EarlyStopping counter: 6 out of 300
+Forward complete
+Duration: 16.54
+Backward complete
+Duration: 35.54
+Epoch: 151 | Trial: 0 | Duration: 7698.05
+EarlyStopping counter: 7 out of 300
+Forward complete
+Duration: 14.17
+Backward complete
+Duration: 36.17
+Epoch: 152 | Trial: 0 | Duration: 7748.38
+EarlyStopping counter: 8 out of 300
+Forward complete
+Duration: 14.29
+Backward complete
+Duration: 36.05
+Epoch: 153 | Trial: 0 | Duration: 7798.73
+EarlyStopping counter: 9 out of 300
+Forward complete
+Duration: 14.15
+Backward complete
+Duration: 36.50
+Epoch: 154 | Trial: 0 | Duration: 7849.37
+EarlyStopping counter: 10 out of 300
+Forward complete
+Duration: 14.12
+Backward complete
+Duration: 36.47
+Epoch: 155 | Trial: 0 | Duration: 7899.96
+ADDING FIGURE! Epoch 155
+EarlyStopping counter: 11 out of 300
+Forward complete
+Duration: 16.38
+Backward complete
+Duration: 36.25
+Epoch: 156 | Trial: 0 | Duration: 7952.59
+EarlyStopping counter: 12 out of 300
+Forward complete
+Duration: 14.03
+Backward complete
+Duration: 35.92
+Epoch: 157 | Trial: 0 | Duration: 8002.55
+EarlyStopping counter: 13 out of 300
+Forward complete
+Duration: 13.98
+Backward complete
+Duration: 35.93
+Epoch: 158 | Trial: 0 | Duration: 8052.46
+EarlyStopping counter: 14 out of 300
+Forward complete
+Duration: 14.17
+Backward complete
+Duration: 35.68
+Epoch: 159 | Trial: 0 | Duration: 8102.31
+EarlyStopping counter: 15 out of 300
+Forward complete
+Duration: 14.28
+Backward complete
+Duration: 37.78
+Epoch: 160 | Trial: 0 | Duration: 8154.37
+ADDING FIGURE! Epoch 160
+EarlyStopping counter: 16 out of 300
+Forward complete
+Duration: 16.43
+Backward complete
+Duration: 36.60
+Epoch: 161 | Trial: 0 | Duration: 8207.41
+EarlyStopping counter: 17 out of 300
+Forward complete
+Duration: 14.37
+Backward complete
+Duration: 37.30
+Epoch: 162 | Trial: 0 | Duration: 8259.08
+EarlyStopping counter: 18 out of 300
+Forward complete
+Duration: 14.08
+Backward complete
+Duration: 37.71
+Epoch: 163 | Trial: 0 | Duration: 8310.87
+EarlyStopping counter: 19 out of 300
+Forward complete
+Duration: 13.91
+Backward complete
+Duration: 37.48
+Epoch: 164 | Trial: 0 | Duration: 8362.25
+EarlyStopping counter: 20 out of 300
+Forward complete
+Duration: 14.12
+Assertion Error with condition #1
