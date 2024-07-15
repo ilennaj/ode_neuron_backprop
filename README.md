@@ -11,3 +11,5 @@ Gidon A et al. (2020). Dendritic action potentials and computation in human laye
 ## License
 
 This project is licensed under the [Apache 2.0 License](./LICENSE) - see the LICENSE file for details.
+
+[![DOI](https://zenodo.org/badge/828268518.svg)](https://zenodo.org/doi/10.5281/zenodo.12745211)
