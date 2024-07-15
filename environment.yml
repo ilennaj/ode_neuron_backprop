@@ -1,0 +1,31 @@
+name: ode_neuron_backprop
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+  - nvidia
+dependencies:
+  - python
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.8.0
+  - pytorch-cuda=12.1
+  - tensorboard
+  - numpy
+  - matplotlib
+  - ipdb
+  - jupyterlab
+  - pip
+  - pip:
+    - cloudpickle
+    - future
+    - networkx
+    - pandas
+    - scipy
+    - tqdm
+    - torchdiffeq
+    - hoc2swc
+    - neuron
+    - neuron_morphology
+prefix: /home/ilenna/.conda/envs/ode_neuron_backprop
