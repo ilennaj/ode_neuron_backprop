@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "ode_neuron_backprop"
+version: "1.0"
+doi: "10.5281/zenodo.12745212"
+date-released: 2024-07-15
+keywords:
+  - biophysical model
+  - optimization
+  - bakpropagation of error
+license: "Apache-2.0"
+url: "https://github.com/ilennaj/ode_neuron_backprop"
+authors:
+  - family-names: "Jones"
+    given-names: "Ilenna"
+    orcid: "https://orcid.org/0000-0002-2169-2195"
+    affiliation: "The Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University"
+  - family-names: "Kording"
+    given-names: "Konrad"
+    orcid: "https://orcid.org/0000-0001-8408-4499"
+    affiliation: "University of Pennsylvania"
